@@ -29,7 +29,7 @@ x Remove publishing rights for general authors
 x XFA Form
 - Adaptive Form 
 
-* o adaptive form é usado mais para adptações de layout, displays, etc, enquanto o XFA form tem a ver com conteúdo (usa xml)
+❗ o adaptive form é usado mais para adptações de layout, displays, etc, enquanto o XFA form tem a ver com conteúdo (usa xml)
 
 9 // Developers made changes to a page. The client views the page but still sees the old version. However, when the client views the page in Incognito mode, the new page displays correctly. What is the solution to this problem?
 - Clear the cache of the browser and access the page again
@@ -41,7 +41,7 @@ x XFA Form
 x Add a custom script with Adobe Target
 - Use a tag management toll such as Adobe Launch
 
-* O Adobe Target serve mais para experiências personalizadas e o Adobe Launch é mais para analytics e estatísticas.
+❗ O Adobe Target serve mais para experiências personalizadas e o Adobe Launch é mais para analytics e estatísticas.
 
 12 // A template author wants to modify the default layout for all existing product pages. If the original editable template is modified, what happens?
 x All existing product pages are changed to reflect the change including the initial content and structure of the template
@@ -91,7 +91,7 @@ x What are the types of assets to be migrated?
 x You should connect AEM to the Creative Cloud
 - You should enable the Smart Tagging feature to sabe time on video tagging
 
-* Não entendi pq esse ta errado
+❗ Não entendi pq esse ta errado
 
 25 // Refer to the exhibit. Which is an AEM page mode?
 x Publish
@@ -107,7 +107,7 @@ x Editable templates
 - Translation framework
 - Multi-Site Manager
 
-* Usar ferramentas de linguagem para ter maior capacidade de afetar usuários
+❗ Usar ferramentas de linguagem para ter maior capacidade de afetar usuários
 
 28 // A specific user is encountering an error while editing a page that other authors have not reported. How would you troubleshoot the problem using AEM?
 x Check the Page timeline
@@ -182,7 +182,7 @@ x Overlay ootb box components under /libs folder
 x Dispatcher Cache
 - CDN Cache
 
-* CDN (Content Delivery Network) cache são servidores espalhados por diferentes regiões, que replicam o conteúdo de um servidor original, fazendo com que muitas pessoas não façam requisição para apenas um servidor, e sim múltiplos. Como a pergunta inclui "vários países", a melhor solução seria um CDN ao invés do Dispatcher, uma vez que o Dispatcher trabalha com uma versão de cache local
+❗ CDN (Content Delivery Network) cache são servidores espalhados por diferentes regiões, que replicam o conteúdo de um servidor original, fazendo com que muitas pessoas não façam requisição para apenas um servidor, e sim múltiplos. Como a pergunta inclui "vários países", a melhor solução seria um CDN ao invés do Dispatcher, uma vez que o Dispatcher trabalha com uma versão de cache local
 
 16 // Client wants advances image processing while uploading assets and leverage as part of dam asset workflows. Which plugin provides this capability
 - ImageMagick
@@ -194,7 +194,7 @@ x Dispatcher Cache
 x Phases and milestones
 - Status by Role
 
-* O manual Project Heartbeat mostra uma visão gráfica de métricas críticas do projeto. O manual Status by Role mostra detalhes de erros em Health, Quality and Completeness, Phase e Persona. O manual Phases and Milestones é mostrado quando o projeto quebra em distintas fases de alto nível, nesse caso, cada fase contém uma milestone e para cada persona (ou role) as milestones relevantes são listadas junto com documentos de entrega. [Para saber mais, aqui](https://experienceleague.adobe.com/docs/experience-manager-65/managing/managing-best-practices-checklist/best-practices.html?lang=en).
+❗ O manual Project Heartbeat mostra uma visão gráfica de métricas críticas do projeto. O manual Status by Role mostra detalhes de erros em Health, Quality and Completeness, Phase e Persona. O manual Phases and Milestones é mostrado quando o projeto quebra em distintas fases de alto nível, nesse caso, cada fase contém uma milestone e para cada persona (ou role) as milestones relevantes são listadas junto com documentos de entrega. [Para saber mais, aqui](https://experienceleague.adobe.com/docs/experience-manager-65/managing/managing-best-practices-checklist/best-practices.html?lang=en).
 
 19 // While publishing an author wants to review the content before publishing which aem feature can be useful
 - Aem workflows
