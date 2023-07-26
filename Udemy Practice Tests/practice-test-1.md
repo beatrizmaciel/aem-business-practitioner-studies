@@ -102,15 +102,15 @@ x Publish
 - Use AEM Insights to capture activity details and make data-driven
 
 27 // Your company is launching a website with customers from around the world. What capabilities of AEM Sites would allow you to make the content more relevant to the largest amount of customers? Choose two.
-x Launches
-x Editable templates
+xx Launches
+xx Editable templates
 - Translation framework
 - Multi-Site Manager
 
 ❗ Usar ferramentas de linguagem para ter maior capacidade de afetar usuários
 
 28 // A specific user is encountering an error while editing a page that other authors have not reported. How would you troubleshoot the problem using AEM?
-x Check the Page timeline
+xx Check the Page timeline
 - Impersonate as the user reporting the issue
 
 29 // When a user requests a cacheable document from the AEM Dispatcher, what will the Dispatcher check to access whether the document exists in the web server file system? Choose two.
@@ -118,5 +118,5 @@ x Check the Page timeline
 - If the document is not cached, the Dispatcher requests the document form the AEM instance
 
 30 // An author would like to display an AI-summarized version of an article. Which method would you recommend to achieve this?
-x Create a varitation of an experience fragment
+xx Create a varitation of an experience fragment
 - Create a variation of a master content fragment
