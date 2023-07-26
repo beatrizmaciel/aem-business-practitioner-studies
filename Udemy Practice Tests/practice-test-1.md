@@ -110,7 +110,7 @@ xx Editable templates
 ❗ Usar ferramentas de linguagem para ter maior capacidade de afetar usuários
 
 28 // A specific user is encountering an error while editing a page that other authors have not reported. How would you troubleshoot the problem using AEM?
-× Check the Page timeline
+:x: Check the Page timeline
 - Impersonate as the user reporting the issue
 
 29 // When a user requests a cacheable document from the AEM Dispatcher, what will the Dispatcher check to access whether the document exists in the web server file system? Choose two.
@@ -118,5 +118,5 @@ xx Editable templates
 - If the document is not cached, the Dispatcher requests the document form the AEM instance
 
 30 // An author would like to display an AI-summarized version of an article. Which method would you recommend to achieve this?
-× Create a varitation of an experience fragment
+:x: Create a varitation of an experience fragment
 - Create a variation of a master content fragment
