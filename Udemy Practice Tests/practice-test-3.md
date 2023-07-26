@@ -66,7 +66,7 @@
 
 :heavy_check_mark: Scaffolding
 
-❗ 
+❗ *O Scaffolding foi descontinuado* em AEM Cloud. Ele servia para definir um modelo de estrutura de página que poderia ser reutilizado. [A saber mais aqui](https://experienceleague.adobe.com/docs/experience-manager-65/classic-ui/siteandpage/classic-feature-scaffolding.html?lang=en)
 
 15 // A company wants to enable the "Request for Activation" option for some of the authors so that content only gets published upon approval. What would you do to enable the option for those authors?
 
@@ -92,6 +92,8 @@
 
 :heavy_check_mark: Using Content Services to create a headless solution
 
+❗ KPI (Key Performance Indicators) são utilizados para indicadores de performance em um site.
+
 19 // A client has a long term AEM project that they have extended with new components and extensive edit dialogs. The project is running with AEM version 5.6 and is using the Classic UI. Considering this information, the developer working on the project is wondering if it would be wise to recommend upgrading to AEM version 6.4. What is the recommended approach on a limited budget?
 
 :heavy_check_mark: Upgrade to 6.4 and configure the Classic UI while starting a new project to migrate the components in a phased approach to Touch UI
@@ -101,6 +103,8 @@
 :heavy_multiplication_x: Use the built-in workflow to export JSON and use content services
 
 :heavy_check_mark: Place the content in content fragments and use content services
+
+❗ 
 
 21 // Which of the following feature can be used to restrict the use for accessing some specific pages on the sites
 
