@@ -18,7 +18,7 @@
 
 :heavy_check_mark: 50 locations
 
-❗ Essa resposta não faz sentidos, todas as opções estavam certas..
+❗ Essa resposta não faz sentido, todas as opções estavam certas..
 
 5 // A specific user is encountering an error while editing a page that other authors have not reported. How would you troubleshoot the problem using AEM?
 
@@ -47,3 +47,57 @@
 :heavy_multiplication_x: Multiline editor
 
 :heavy_check_mark: Rich text editor
+
+11 // What is the aem as a cloud service feature adobe pipeline
+
+:heavy_multiplication_x: The mechanism for publishing content from author to publish
+
+:heavy_check_mark: Is the cloud-native way of leveraging aem application
+
+12 // When a user searches for a keyword on a web page with ? after the page URL what can be the reason the page is not getting cached
+
+:heavy_multiplication_x: Page url is not correct
+
+:heavy_check_mark: Page url contains ?
+
+13 // As an asset manager, how could you best ensure that only valid metadata is shown for a particular asset type?
+
+:heavy_multiplication_x: Use cascading metadata rules to hide or show fields based on types
+
+:heavy_check_mark: Define a metadata schema for a type and apply it to a specific folder
+
+14 // A template author wants to modify the default layout for all existing product pages. If the original editable template is modified, what happens?
+
+:heavy_check_mark: All existing product pages are changed to reflect the change including the initial content and structure of the template
+
+15 // SEO best practice states that if a user were to see a URI and none of the content on the page, they should be able to describe what the page is. Which AEM feature allows you to control a URL while maintaining SEO integrity?
+
+:heavy_check_mark: Use the vanity URL field of the page property to configure the URL
+
+16 // A developer plans to use the Text component on its pages. However, the out of the box (OOTB) Text component does not allow authors to edit HTML source on the component. How should the developer support HTML source editing?
+
+:heavy_check_mark: Extend the OOTB Text component and enable the source edit Rich-Text Editor (RTE) plugin
+
+17 // The customer wants to set up the organization so that edited pages are reviewed and approved by a limited set of business stakeholders prior to being published. How do you establish this process?
+
+:heavy_check_mark: Use a publish workflow
+
+18 // What is the recommended method to view a pages as it was in a previous point in time?
+
+:heavy_check_mark: Use timewarp to simulate the published state of a page at specific times in the past
+
+19 // A client wants that his CDN cache should be updated as soon as he publishes the content. Which of the following method he can use
+
+:heavy_check_mark: Configure replication agents
+
+20 // A client has a requirement to create page independent text along with associated media, which can be re-used on any page. It might need to be delivered to the mobile app. Which of the following aem feature can be used
+
+:heavy_multiplication_x: Experience fragment
+
+:heavy_check_mark: Content fragment
+
+21 // When a user requests a cacheable document from the AEM Dispatcher, what will the Dispatcher check to access whether the document exists in the web server file system? Choose two
+
+:heavy_check_mark: If the document is cached, the AEM Dispatcher requests the cached file after validation
+
+:heavy_check_mark: If the document is not cached, the Dispatcher requests the document form the AEM instance
