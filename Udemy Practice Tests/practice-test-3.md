@@ -104,7 +104,7 @@
 
 :heavy_check_mark: Place the content in content fragments and use content services
 
-❗ 
+❗ Content fragments podem ser usados para criar uma API acessando um servlet, o que pode ser a solução para este caso específico. Algumas referências [aqui](https://engineering.icf.com/aem-content-fragments-as-an-api/) e [aqui](https://www.youtube.com/watch?v=l1rx3jX9hW8).
 
 21 // Which of the following feature can be used to restrict the use for accessing some specific pages on the sites
 
