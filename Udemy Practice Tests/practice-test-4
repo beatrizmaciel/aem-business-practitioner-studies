@@ -1,0 +1,45 @@
+### Practice Test 3
+
+1 // A client want to keep track of changes happening to the page at some specific point of time which feature can be used for this functionality
+
+:heavy_check_mark: Versions
+
+2 // During an aem installation which run mode will skip the installation of demo content
+
+:heavy_check_mark: Nosamplecontent
+
+3 // A client would like to have always the latest version of the aem which deployment version he should go with
+
+:heavy_check_mark: AEM as cloud service
+
+4 // When working with Adobe Target, the following is the maximum number of artifacts allowed within a campaign
+
+:heavy_multiplication_x: 2,000 experiences
+
+:heavy_check_mark: 50 locations
+
+❗ Essa resposta não faz sentidos, todas as opções estavam certas..
+
+5 // A specific user is encountering an error while editing a page that other authors have not reported. How would you troubleshoot the problem using AEM?
+
+:heavy_check_mark: Impersonate as the user resporting the issue
+
+6 // Which scenarios is valid for introducing additional training for content authors
+
+:heavy_multiplication_x: Installing new page templates
+
+:heavy_check_mark: Installing new version of AEM
+
+7 // An organization want to develop the content for future releases which of the following feature can be used for these requirements
+
+:heavy_check_mark: Launches
+
+8 // A client has decided to use adobe managed services what advantage he will get
+
+:heavy_check_mark: Adobe will introduce security measure
+
+9 // You want to create a grouping of all the assets under a specific category that are contained in various location across the DAM. What is the best way to achieve this?
+
+:heavy_check_mark: Use Smart collections
+
+10 //

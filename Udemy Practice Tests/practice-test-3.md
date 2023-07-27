@@ -66,7 +66,7 @@
 
 :heavy_check_mark: Scaffolding
 
-❗ *O Scaffolding foi descontinuado* em AEM Cloud. Ele servia para definir um modelo de estrutura de página que poderia ser reutilizado. [A saber mais aqui](https://experienceleague.adobe.com/docs/experience-manager-65/classic-ui/siteandpage/classic-feature-scaffolding.html?lang=en)
+❗ *Scaffolding foi descontinuado* em AEM Cloud. Ele servia para definir um modelo de estrutura de página que poderia ser reutilizado. [A saber mais aqui](https://experienceleague.adobe.com/docs/experience-manager-65/classic-ui/siteandpage/classic-feature-scaffolding.html?lang=en)
 
 15 // A company wants to enable the "Request for Activation" option for some of the authors so that content only gets published upon approval. What would you do to enable the option for those authors?
 
