@@ -17,6 +17,8 @@
 
 4 // What is the main function of AEM Screens?
 
+:heavy_multiplication_x: AEM Screens is used to emulate the content of different devices
+
 :heavy_check_mark: AEM Screens is used to display intereactive content on digital signs
 
 5 // You want your online store to be updated quarterly so that the featured products align with the current season. What is the best approach to prepare the new web pages for the next quarterly update?
@@ -100,6 +102,8 @@
 :heavy_check_mark: Create a forum and Q&A site using AEM Communities
 
 20 // A company foresees the structure of page templates will change frequently for its pages. Why is it important to use editable templates instead of static templates?
+
+:heavy_multiplication_x: Editable templates are replicated faster to a publish server
 
 :heavy_check_mark: A dynamic connection is maintained between the page and the template on existing pages
 

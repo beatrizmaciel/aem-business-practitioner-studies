@@ -48,7 +48,7 @@
 
 :heavy_check_mark: Rich text editor
 
-"The multi-line text field is a data type of Content Fragments that enables authors to create rich text content." [Referência da documentação oficial](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/how-to/rich-text.html?lang=en)
+❗ "The multi-line text field is a data type of Content Fragments that enables authors to create rich text content." [Referência da documentação oficial](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/how-to/rich-text.html?lang=en)
 
 11 // What is the aem as a cloud service feature adobe pipeline
 
