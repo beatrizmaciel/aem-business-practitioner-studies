@@ -22,6 +22,8 @@ OOTB » Out of the Box Components (Core Components)
 
 4 // Which one of the following conditions is mandatory to track AEM data in adobe analytics
 
+:heavy_multiplication_x: Datacenter URL property on adobe analytics HTTP client configurations should be filled
+
 :heavy_check_mark: Adobe Analytics account needs to be assigned to the web service user group
 
 5 // A customer would like to have an easy-to-use solution to create manage and publish complex digital forms. Which aem modules can help
@@ -59,6 +61,8 @@ OOTB » Out of the Box Components (Core Components)
 :heavy_check_mark: Provide necessary flexibility and configuration capabilities to your custom components
 
 11 // Which persona creates adaptive forms, themes, and templates as per the provided style layout and branding in a typical AEM forms project team
+
+:heavy_multiplication_x: Forms developer
 
 :heavy_check_mark: Forms practitioner
 
