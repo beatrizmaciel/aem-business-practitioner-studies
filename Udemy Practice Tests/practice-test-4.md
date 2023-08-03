@@ -100,6 +100,32 @@
 
 21 // When a user requests a cacheable document from the AEM Dispatcher, what will the Dispatcher check to access whether the document exists in the web server file system? Choose two
 
-:heavy_check_mark: If the document is cached, the AEM Dispatcher requests the cached file after validation
+:heavy_multiplication_x: If the document is cached, the AEM Dispatcher requests the cached file after validation
 
 :heavy_check_mark: If the document is not cached, the Dispatcher requests the document form the AEM instance
+
+22 // A client who use aem as a cloud service want to increase the content relevance by leveraging targeting and measuring across all the channels Which of the following feature enable this capability
+
+:heavy_multiplication_x: Analytics
+
+:heavy_check_mark: Target
+
+23 // A client is building out their website using several different content pages web specific components to be used on each page. What is the recommended system to restrict components on specific templates?
+
+:heavy_multiplication_x: Define components in page properties
+
+:heavy_check_mark: Use content policies
+
+24 // A client would like to have always the latest version of the aem which deployment version he should go with
+
+:heavy_check_mark: Aem as a cloud service
+
+25 // What is the purpose of AEM Desktop?
+
+:heavy_check_mark: Migrate huge number of assets
+
+26 // The client needs to create pages supporting personalized content. Which feature should developers add to the page
+
+:heavy_multiplication_x: Experience fragment
+
+:heavy_check_mark: Contexthub
