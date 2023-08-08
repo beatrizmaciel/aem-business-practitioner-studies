@@ -36,6 +36,8 @@
 
 8 // Which AEM solution can leverage artificial intelligence to automatically apply metadata?
 
+:heavy_multiplication_x: AEM Screens
+
 :heavy_check_mark: AEM Assets
 
 9 // An AEM project (i.e.Myproject) has been deleted. What would happen to the groups (Myproject Owners, Myproject Editors, and Myproject Observers) associated with the deleted project?
