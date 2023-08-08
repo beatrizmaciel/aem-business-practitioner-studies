@@ -8,6 +8,8 @@
 
 :heavy_check_mark: It relies on AJAX calls to load data asynchronously
 
+❗ O JobManager é uma interface Apache que pode ser utilizada para criação e procura de jobs, além de pegar estatísticas do estado atual. [Saiba mais aqui](https://developer.adobe.com/experience-manager/reference-materials/6-5/javadoc/org/apache/sling/event/jobs/JobManager.html)
+
 2 // A non-admin user is attempting impersonation. Under which circumstance would this impersonation be successful?
 
 :heavy_multiplication_x: The user is part of OOTB impersonator group
@@ -55,6 +57,8 @@
 :heavy_check_mark: ExactTarget
 
 :heavy_check_mark: Silverpop Engage
+
+❗ O SilverPop pode ser integrado ao AEM para administração e envio de e-mails. [Saiba mais aqui](https://experienceleague.adobe.com/docs/experience-manager-65/administering/integration/silverpop.html?lang=en)
 
 10 // Which Container Component is available as part of AEM as a Cloud Service Core Components?
 
