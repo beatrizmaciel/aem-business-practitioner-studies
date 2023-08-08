@@ -129,3 +129,5 @@
 :heavy_multiplication_x: Experience fragment
 
 :heavy_check_mark: Contexthub
+
+❗ O ContextHub é uma API que serve para armazenarmos, manipularmos e visualizarmos o conteúdo de forma adaptada para diferentes perfis. É necessário fazer o permissionamento desta API para utilizá-la. [Saiba mais aqui](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/personalization/context-hub-technical-video-setup.html?lang=en).
