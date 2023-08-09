@@ -126,6 +126,8 @@
 
 :heavy_check_mark: Link Checker
 
+❗ O Link Checker serve para validar links no AEM 6.5. [Documentação aqui](https://experienceleague.adobe.com/docs/experience-manager-65/administering/operations/external-link-checker.html?lang=en)
+
 20 // There is a business need for AEM architecture that should be dynamic, with a variable number of images and auto-scalable. Which version of AEM should be used to complete this task?
 
 :heavy_check_mark: AEM as a Cloud Service
@@ -140,11 +142,15 @@
 
 :heavy_check_mark: Creating new pages in a blueprint will result in corresponding pages being created in the live copies
 
+❗ Um rollout é um lançamento ou implantação de um novo produto. Um blueprint é uma página a ser copiada e uma live copy é uma cópia de uma página que herda seus atributos. Entretanto, no AEM precisamos permitir essa herança de forma manual. [Saiba mais aqui](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/multi-site-management/live-copy-and-blueprint.html?lang=en)
+
 23 // A client wants to ensure brand compliance by enabling marketers to collaborate with partners and internal business users to create, maintain, and deliver designs, logos, and product assets to stakeholders. Which AEM add-on offers this functionality?
 
 :heavy_multiplication_x: AEM Assets Brand Manager
 
 :heavy_check_mark: AEM Assets Brand Portal
+
+❗ O AEM Assets Brand Portal é uma ferramenta de aquisição, controle e distribuição segura de assets para terceiros, que podem ser publicados no Experience Manager Assets sem precisar de acesso ao ambiente de author. [Saiba mais aqui](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal.html?lang=en)
 
 24 // Which project stakeholder is responsible for determining the definition and criteria for success of a project?
 
