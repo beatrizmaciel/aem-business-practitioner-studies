@@ -164,7 +164,8 @@
 :heavy_check_mark: Impersonate as the user reporting the issue
 
 29 // When a user requests a cacheable document from the AEM Dispatcher, what will the Dispatcher check to access whether the document exists in the web server file system? Choose two.
-:heavy_check_mark: If the document is cached, the AEM Dispatcher requests the cached file after validation
+
+:heavy_check_mark: If the document is cached, the AEM Dispatcher returns the file from the CDN Cache
 
 :heavy_check_mark: If the document is not cached, the Dispatcher requests the document form the AEM instance
 

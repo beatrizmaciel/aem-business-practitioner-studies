@@ -78,7 +78,7 @@
 
 16 // A developer plans to use the Text component on its pages. However, the out of the box (OOTB) Text component does not allow authors to edit HTML source on the component. How should the developer support HTML source editing?
 
-:heavy_check_mark: Extend the OOTB Text component and enable the source edit Rich-Text Editor (RTE) plugin
+:heavy_check_mark: Edit the OOTD Text component directly to enable sourceedit Rich-Text Editor (RTE) plugin
 
 17 // The customer wants to set up the organization so that edited pages are reviewed and approved by a limited set of business stakeholders prior to being published. How do you establish this process?
 
@@ -100,7 +100,7 @@
 
 21 // When a user requests a cacheable document from the AEM Dispatcher, what will the Dispatcher check to access whether the document exists in the web server file system? Choose two
 
-:heavy_multiplication_x: If the document is cached, the AEM Dispatcher requests the cached file after validation
+:heavy_multiplication_x: If the document is cached, the AEM Dispatcher returns the file from the CDN Cache
 
 :heavy_check_mark: If the document is not cached, the Dispatcher requests the document form the AEM instance
 
