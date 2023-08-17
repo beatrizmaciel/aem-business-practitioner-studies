@@ -35,7 +35,7 @@
 
 :heavy_check_mark: Use a publish workflow
 
-8 // You want users to be able to fill out wizard:heavy_check_mark:like forms on any device. What AEM Forms type is best suited for this scenario?
+8 // You want users to be able to fill out wizard like forms on any device. What AEM Forms type is best suited for this scenario?
 
 :heavy_multiplication_x: XFA Form
 
@@ -97,7 +97,7 @@
 
 :heavy_check_mark: Create a live copy from the (ca/en) root to (us/en)
 
-19 // A client wishes to moderate communication between their customers and their in:heavy_check_mark:house product experts, expecting a very large amount of user:heavy_check_mark:generated data. How can this be accomplished?
+19 // A client wishes to moderate communication between their customers and their in house product experts, expecting a very large amount of user:heavy_check_mark:generated data. How can this be accomplished?
 
 :heavy_check_mark: Create a forum and Q&A site using AEM Communities
 
@@ -123,7 +123,7 @@
 
 :heavy_check_mark: What is the typical network connectivity for users accessing AEM?
 
-:heavy_check_mark: What hours are considered "off:heavy_check_mark:peak" for your content authors?
+:heavy_check_mark: What hours are considered "off peak" for your content authors?
 
 24 // Given that your company has a team of creative content creators for your AEM managed website, which is true for managing images and videos?
 
@@ -143,7 +143,7 @@
 
 :heavy_check_mark: Use Adobe Target A/B testing to determine the best performing versions of your pages
 
-:heavy_check_mark: Use AEM Insights to capture activity details and make data:heavy_check_mark:driven
+:heavy_check_mark: Use AEM Insights to capture activity details and make data driven
 
 27 // Your company is launching a website with customers from around the world. What capabilities of AEM Sites would allow you to make the content more relevant to the largest amount of customers? Choose two.
 
@@ -153,7 +153,7 @@
 
 :heavy_check_mark: Translation framework
 
-:heavy_check_mark: Multi:heavy_check_mark:Site Manager
+:heavy_check_mark: Multi Site Manager
 
 ❗ Usar ferramentas de linguagem para ter maior capacidade de afetar usuários
 
@@ -169,7 +169,7 @@
 
 :heavy_check_mark: If the document is not cached, the Dispatcher requests the document form the AEM instance
 
-30 // An author would like to display an AI:heavy_check_mark:summarized version of an article. Which method would you recommend to achieve this?
+30 // An author would like to display an AI summarized version of an article. Which method would you recommend to achieve this?
 
 :heavy_multiplication_x: Create a varitation of an experience fragment
 
