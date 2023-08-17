@@ -54,17 +54,14 @@ https://solutionpartners.adobe.com/training/courses/course2432448.html
 - MIME type
 
 15. What are the different ways to search assets in Assets Essentials? Select two.
-x Folders
-x Full-text search
 
-x Folders
-x Renditions
+x Folders | x Full-text search
 
-x Renditions
-x Metadata
+x Folders | x Renditions
 
-x Metadata
-x Full-text search
+x Renditions | x Metadata
+
+x Metadata | x Full-text search
 
 16. Which of the following statements about Smart Tags are true? Select two.
 - Adobe Sensei automatically generates Smart Tags to all the uploaded assets in Assets Essentials
@@ -74,11 +71,9 @@ x Full-text search
 - Metadata helps categorize digital assets and maintains the huge amount of digital information
 
 18. Which of the following Adobe solutions integrate with Assets Essentials? Select two.
-x Adobe Target
-x Adobe Analytics
 
-x Adobe Target
-x Creative Cloud for Enterprise
+x Adobe Target | x Adobe Analytics
 
-x Adobe Target
-x Adobe Journey Optimizer
+x Adobe Target | x Creative Cloud for Enterprise
+
+x Adobe Target | x Adobe Journey Optimizer
