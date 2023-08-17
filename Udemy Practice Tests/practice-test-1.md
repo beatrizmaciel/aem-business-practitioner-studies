@@ -13,7 +13,7 @@
 
 3 // A developer plans to use the Text component on its pages. However, the out of the box (OOTB) Text component does not allow authors to edit HTML source on the component. How should the developer support HTML source editing?
 
-:heavy_check_mark: Extend the OOTB Text component and enable the source edit Rich:heavy_check_mark:Text Editor (RTE) plugin
+:heavy_check_mark: Extend the OOTB Text component and enable the source edit Rich Text Editor (RTE) plugin
 
 4 // What is the main function of AEM Screens?
 
@@ -97,7 +97,7 @@
 
 :heavy_check_mark: Create a live copy from the (ca/en) root to (us/en)
 
-19 // A client wishes to moderate communication between their customers and their in house product experts, expecting a very large amount of user:heavy_check_mark:generated data. How can this be accomplished?
+19 // A client wishes to moderate communication between their customers and their in house product experts, expecting a very large amount of user generated data. How can this be accomplished?
 
 :heavy_check_mark: Create a forum and Q&A site using AEM Communities
 
