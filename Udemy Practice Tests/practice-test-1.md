@@ -35,7 +35,7 @@
 
 :heavy_check_mark: Use a publish workflow
 
-8 // You want users to be able to fill out wizard:heavy_check_mark:like forms on any device. What AEM Forms type is best suited for this scenario?
+8 // You want users to be able to fill out wizard-like forms on any device. What AEM Forms type is best suited for this scenario?
 
 :heavy_multiplication_x: XFA Form
 
@@ -153,7 +153,7 @@
 
 :heavy_check_mark: Translation framework
 
-:heavy_check_mark: Multi:heavy_check_mark:Site Manager
+:heavy_check_mark: Multi Site Manager
 
 ❗ Usar ferramentas de linguagem para ter maior capacidade de afetar usuários
 

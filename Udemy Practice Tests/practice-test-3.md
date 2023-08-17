@@ -80,6 +80,8 @@
 
 :heavy_check_mark: Creating of a constant flow of fresh and high-quality content on your own site
 
+❗ O livefyre foi [descontinuado](https://experienceleague.adobe.com/docs/experience-manager-65/administering/integration/livefyre.html?lang=en) em 2021.
+
 17 // When should you use a closed user group?
 
 :heavy_multiplication_x: When you want to restrict access to a specific team for an AEM Project
