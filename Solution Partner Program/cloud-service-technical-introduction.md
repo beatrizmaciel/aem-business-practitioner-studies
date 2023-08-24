@@ -28,3 +28,23 @@ https://solutionpartners.adobe.com/training/learning_program/learningProgram5102
 
 8. What is a benefit of AEM as a Cloud Service?
 - Uses auto scaling to handle traffic spikes
+
+
+
+#### Introduction to Asset Microsservices
+
+1. What configuration is available by default in AEM Assets as Cloud Service?
+- Smart Tags
+
+2. Which of the following configurations is available by default in AEM Assets as a Cloud Service?
+- Dynamic Media
+
+3. Which of the following apps is optimized for AEM Assets as a Cloud Service?
+
+x Creative Cloud app
+
+4. Which of the following is true about AEM Assets as a Cloud Service?
+- Assets are directly uploaded to Binary Cloud Storage
+
+5. Which of the following can you create to control renditions in Asset Microsservices?
+- A Processing Profile
