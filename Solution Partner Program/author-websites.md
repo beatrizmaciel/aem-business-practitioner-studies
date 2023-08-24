@@ -57,12 +57,12 @@ x The ingration with other Marketing Cloud solutions | x The policies that defin
 
 7. What can you use the template editor for? Select two.
 
-x Creating static templates | x Positioning components on a responsive grid
+x Creating static templates | x Positioning components on a responsive grid.
 
 8. After you create a Content Fragment, what is the simplest method of reproducing it with slight modifications?
 - Creating a variation
 
-9. Whici of the following can authors import into an existing Content Fragment? Select two.
+9. Which of the following can authors import into an existing Content Fragment? Select two.
 - Text files
 - PDF files
 
@@ -70,6 +70,7 @@ x Creating static templates | x Positioning components on a responsive grid
 - They're created and edited by template authors or super users
 - They allow you to define the structure and initial content
 
+![Data layer](../utils/imgs/data-layer-functional-diagram.png)
 
 ❗ Data Layer serve para juntar informações sobre quem entra no seu website. Esses dados podem ser enviados para o Adobe Analytics para ser analisado. Documentação do Data Layer para [saber mais aqui](https://github.com/adobe/adobe-client-data-layer).
 
