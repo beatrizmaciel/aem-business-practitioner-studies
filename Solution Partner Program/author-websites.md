@@ -75,3 +75,49 @@ x Creating static templates | x Positioning components on a responsive grid.
 ❗ Data Layer serve para juntar informações sobre quem entra no seu website. Esses dados podem ser enviados para o Adobe Analytics para ser analisado. Documentação do Data Layer para [saber mais aqui](https://github.com/adobe/adobe-client-data-layer).
 
 ❗ Context hub para manipular e utilizar dados e permite que as pessoas do marketing simulem o que os usuários verão. Contras: é um programa pesado e pode ser substituido pelo Adobe Layer, trackeando um usuário
+
+
+#### Introduction to Project Capabilities
+
+1. What can you do within the Inbox in AEM? Select three
+- Manage tasks and projects
+- Set item priorities
+- Monitor workflows
+
+2. Which of the following are available view types for items in your Calendar inbox? Select three
+
+x List | Column | Thumbnail
+
+3. Which statement is true for project master in AEM?
+- Project masters create one set of shareable role-based user groups that derived projects can use
+
+![Project master](../utils/imgs/project_masters.png)
+
+4. Which of the following options does the AEM Calendar offer? Select three
+- Quick access button over each item
+- Search and filter
+- Colored status icons
+
+5. What task is created in the Inbox and added to a project?
+
+x Ad Hoc task
+
+6. Which of the following statements about project masters are true? Select two
+
+x They are actionable | x They have predefined properties
+
+x They do not have a start or due date | x They are actionable
+
+7. What are three task types you'll find in the Inbox? Select three
+- Ad hoc
+- Project
+- Work Items
+
+8. Complete the sentence below:
+- The AEM Calendar allows you to schedule both projects and tasks
+
+9. Which of the following determines the information and quick actions bar display in the Inbox?
+- The type of item you select
+
+10. Which of the following statements about the Inbox in AEM is true?
+- The inbox allows you to reassign tasks to different users or user groups
