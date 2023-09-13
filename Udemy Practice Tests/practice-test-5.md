@@ -106,7 +106,7 @@
 
 21 // What are possible benefits of using a CDN in a typical AEM architecture? Choose two.
 
-:heavy_check_mark: Improve response time vy distributing server load and remotely caching content
+:heavy_check_mark: Improve response time by distributing server load and remotely caching content
 
 :heavy_check_mark: Deliver content from a location close to the end user
 
