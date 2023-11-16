@@ -1,0 +1,3 @@
+O [Adobe Asset Link](https://www.adobe.com/creativecloud/business/enterprise/adobe-asset-link.html) é uma ferramenta utilizada pelo creative professional ou marketer, conectando o AEM à aplicações Adobe, tais como Adobe InDesign, Photoshop, Illustrator e XD. É uma forma de manter todo um ecosistema dentro dos aplicativos da Creative Cloud, acessando e modificando assets.
+
+[Saiba mais aqui](https://helpx.adobe.com/enterprise/using/adobe-asset-link.html).
