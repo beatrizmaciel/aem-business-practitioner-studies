@@ -11,6 +11,7 @@
 ✔️ Guild a new profile with the rating property for assets via the Metadata Profiles tool
 
 ❗ Metadata profiles são utilizados para replicação de propriedades em assets. Assim, esses profiles podem ser aplicados a pastas e todos os assets que estiverem nestas pastas passam a ter as mesmas propriedades. Se tiverem mais de um profile em pastas mães ou irmães, os metadata profiles usam o profile mais próximo, respeitando a hierarquia da árvore. [Saiba mais sobre metadata profiles aqui](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/metadata-profiles.html)
+⚠️ However, option "Build a new schema with the rating property via the Metadata Schemas tool" is the most appropriate because it directly addresses the requirement of adding a new field for capturing asset ratings and provides a systematic approach for managing asset metadata in AEM Assets.
 
 3 // A new user who is a member of the content-authors group needs to access the AEM web console. The new user should not be added to the administrator's group. What should the Business Practitioner recommend?
 
@@ -19,6 +20,7 @@
 ✔️ Update the IMS configuration
 
 ❗ O Adobe IMS (Identity Management System) é utilizado para fazer integrações do AEM Cloud com o Adobe Analytics ou o Adobe Target. Essas configurações são feitas no Adobe Developer Console. [Saiba mais sobre o Adobe IMS aqui](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/authentication/adobe-ims-authentication-technical-video-understand.html)
+⚠️ IMS (Adobe Identity Management System) configuration typically deals with user authentication and identity management. While important for user access, it doesn't directly control access to the AEM web console, so the best answer would be "Update the OSGi configuration": OSGi (Open Services Gateway Initiative) is the underlying framework used by AEM for modular development and runtime. OSGi configurations can include settings related to user access and permissions, including access to the AEM web console. The Business Practitioner could recommend updating the OSGi configuration to grant access to the AEM web console for the content-authors group without adding users to the administrator's group.
 
 4 // A customer has a multi-step asset creation workflow process that contains the following
 steps:
@@ -61,6 +63,7 @@ What should the Business Practitioner recommend that the customer create and ass
 ✔️ Published Content
 
 ❗ Eu não entendi... esse published content se refere ao [Locked (Published) Content Fragment Models](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/administering/content-fragments/content-fragment-models.html)?
+⚠️ The correct option is "Content Fragments": Content Fragments in AEM provide a structured approach to content creation, allowing content authors to create modular, reusable content components. Content Fragments are designed to be flexible and adaptable, making them ideal for repurposing content across different channels and locations.
 
 8 // A company plans to develop a set of pages with the same design and structure. The only difference between the pages is the content inside the body. What is the belt approach to develop the pages?
 
@@ -73,6 +76,7 @@ What should the Business Practitioner recommend that the customer create and ass
 ✔️ Add both authors to dam-users group
 
 ❗ Não entendo porquê... outras opções são "Add both authors as impersonators of each other" e "Add both authors to a participant step"
+⚠️ The correct option should be "Add both authors to the workflow-users group": The workflow-users group typically has permissions related to workflow management, including the ability to participate in workflows and manage workflow tasks. Adding both authors to this group allows them to share workflow tasks and delegate responsibilities as needed.
 
 10 // A customer has been using the AEM ContextHub feature Cut wants to extend it by adding an additional API. The additional API will be used to allow digital marketers to target banners based on CRM data for the current visit. What should the Business Practitioner recommend that the customer create?
 
@@ -89,6 +93,7 @@ What should the Business Practitioner recommend that the customer create and ass
 ✔️ Scrum Manager & Project Manager
 
 ❗ Isso não faz sentido
+⚠️ Meeting with the Business Owner and Architect ensures that both the business perspective and technical implications are considered in resolving the conflict related to the "add to cart" functionality. This approach helps achieve a balanced resolution that meets both business requirements and technical feasibility.
 
 12 // The marketing team runs a campaign that starts at midnight. The campaign includes multiple updates to the existing pages across the website. The marketing team needs to activate all changes automatically during non-business hours. What should the Business Practitioner recommend?
 
@@ -97,6 +102,8 @@ What should the Business Practitioner recommend that the customer create and ass
 ✔️ Run "Request for Activation" workflow and specify the campaign start time m the workflow title
 
 ❗ O "Request for Activation" funciona de forma automática. "The OOTB “Request For Activation” workflow is located here: /libs/settings/workflow/models/request_for_activation", [fonte](https://blogs.perficient.com/2019/02/11/customizing-request-for-activation-deactivation-wizards-aem-6/).
+While the "Request for Activation" could potentially work, it's not the most direct or standard method for scheduling content activation in Adobe Experience Manager (AEM).
+⚠️ The correct answer to the question would be "Schedule Later Publication via the Manage Publication wizard": This option is the most appropriate and standard method for scheduling content activation in AEM. The Manage Publication wizard allows content authors and administrators to schedule the publication of content at specific times, including scheduling content to go live at the start of the campaign. This method provides a straightforward and centralized approach to scheduling content publication and is well-suited for managing campaign launches and other time-sensitive updates.
 
 13 // A customer has a website that serves an English-speaking market. The customer wants to expand to a German-speaking market. What should the Business Practitioner recommend to seamlessly create the new website structure?
 
@@ -109,6 +116,9 @@ What should the Business Practitioner recommend that the customer create and ass
 ✖ user-administrators
 
 ✔️ projects-administrators
+
+❗ This group is responsible for managing projects within AEM, and its permissions are not specifically tailored for content taxonomy management.
+⚠️ The "tag-administrators" should be the right answer because the group is specifically focused on managing tags and taxonomy within AEM. This group is likely to have the appropriate permissions for managing content taxonomy while still providing minimal rights tailored to this task.
 
 15 // Regarding performance, what are the Adobe recommended response Time guidelines for uneached HTML requests?
 
@@ -186,6 +196,7 @@ The Business practitioner needs to recommend a feature so that the scripts are l
 ✔️ Blueprint
 
 ❗ Não faz sentido!!!!
+⚠️ The correct is "Projects": In Adobe Experience Manager (AEM), Projects provide a structured environment for managing content-related tasks, assets, and workflows. AEM Projects enable teams to collaborate effectively, track project progress, assign tasks, and manage resources within a centralized workspace.
 
 26 // An end user tries to create a page on the Sites console but receives the following error: Problem Accessing '’/content/loo/bar.html.’ Reason: 403 Forbidden How should the Business Practitioner categorize the issue during the initial triage?
 
@@ -211,11 +222,9 @@ The Business practitioner needs to recommend a feature so that the scripts are l
 
 30 // Which Workflow model property should a Business Practitioner select for a workflow that will be ran often and does not require saving workflow runtime history?
 
-✖ Transient Workflow
+✔️ Transient Workflow
 
-✔️ Asset Microservice
-
-❗ 
+❗ Transient: This option ensures that workflow instances are not persisted in the system after completion. Transient workflows do not retain runtime history, making them suitable for scenarios where workflow history is not required or can be discarded after execution.
 
 31 // Which role is responsible for scope and timeline delivery to a customer?
 
@@ -277,6 +286,8 @@ The Business practitioner needs to recommend a feature so that the scripts are l
 
 ✔️ Onboard trained technical resources
 
+⚠️ Onboarding trained technical resources is important for project success, but it doesn't directly address the sponsors' concerns about completing everything within time and budget constraints. It's more about ensuring that the project team has the necessary skills and expertise to execute the project effectively.  So the right answer should be "Perform risk assessment": Performing a risk assessment is crucial to identifying potential challenges, bottlenecks, and uncertainties that could impact the project's timeline and budget. By conducting a thorough risk assessment, the project team can proactively identify and mitigate risks, ensuring that the project stays on track and within the defined constraints.
+
 42 // A customer is preparing for holiday sales and needs to update the live site at exactly midnight local time, without any manual intervention. All changes are already done on the author instance. Which two AEM functionalities should the Business Practitioner recommend? (Choose two)
 
 ✔️ Manage Publication
@@ -314,7 +325,8 @@ Smart Collections do not inherently support the sharing of assets among DAM user
 
 ✔️ Use Dynamic Media Smart crop
 
-❗ 
+❗ While Dynamic Media smart crop is a useful feature for automatically cropping images based on predefined criteria, it may not fully address the requirement of minimizing the workload for asset managers, as it primarily focuses on cropping rather than resizing or optimizing images for various devices.
+⚠️ The correct option should be "Use Dynamic Media image presets": Dynamic Media image presets in Adobe Experience Manager (AEM) allow content authors to define predefined settings for image renditions, such as sizes, formats, quality, and compression. By using image presets, asset managers can streamline the process of resizing and optimizing images for different devices and screen resolutions, reducing the manual effort required for each individual image.
 
 47 // Which additional AEM Assets features become available after integration with Dynamic Media? (Choose two.)
 
@@ -331,6 +343,9 @@ Smart Collections do not inherently support the sharing of assets among DAM user
 49 // A Business Practitioner needs to deactivate content that Is published In production. Where should the deactivation workflow be initiated?
 
 ✔️ On the author
+
+❗  Content deactivation workflows are typically initiated on the author instance in AEM. The author instance is where content authors create, edit, and manage content before it is published to the live website. However, content deactivation occurs on the publish instance to remove content from the live site.
+⚠️ However, the best option would be "On the publish": The publish instance is where content is made available to the public-facing website or application. Initiating the deactivation workflow on the publish instance allows content authors to remove content from the live site effectively, ensuring that deactivated content is no longer accessible to users.
 
 50 // A customer wants to implement social media pixels directly on AEM templates What should the Business Practitioner recommend?
 
