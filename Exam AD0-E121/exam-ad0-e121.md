@@ -236,9 +236,9 @@ The Business practitioner needs to recommend a feature so that the scripts are l
 
 33 // A developer makes the requested changes to a page on a live site. The developer then verifies that changes are reflected correctly on the page. The customer reports that they still set an older version. What should the Business Practitioner verify first?
 
-✖ Page reflects changes on Incognito Mode
+✔️ Page reflects changes on Incognito Mode
 
-✔️ Dispatcher cache refresh
+❗ Dispatcher cache refresh: While refreshing the dispatcher cache might resolve caching issues, it doesn't directly verify if the changes are reflected on the page for the customer. It's a solution rather than a verification step. "Page reflects changes in Incognito mode," is the best choice for verifying if the customer is seeing the most recent version of the page on the live site after the developer made changes.
 
 34 // An AEM project (i.e. Myproject) has been deleted. What would happen to the groups (Myproject Owners. Myproject Editors and Wyproject Observers) associated with the deleted project?
 
