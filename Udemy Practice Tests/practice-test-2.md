@@ -90,7 +90,7 @@ OOTB » Out of the Box Components (Core Components)
 
 :heavy_check_mark: ImageMagick
 
-17 // Client wants advances image processing while uploading assets and leverage as part of dam asset workflows. Which plugin provides this capability
+17 // A client has Adobe cloud manage service in place, which of the following is the necessary conditions for code to be deployed
 
 :heavy_check_mark: Code will require a certain level of test coverage
 
